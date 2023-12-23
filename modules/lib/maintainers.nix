@@ -189,6 +189,12 @@
     github = "nilp0inter";
     githubId = 1224006;
   };
+  princess = {
+    name = "Chloe Kever";
+    email = "lolbummer@gmail.com";
+    github = "pinktrink";
+    githubId = 660917;
+  };
   seylerius = {
     email = "sable@seyleri.us";
     name = "Sable Seyler";

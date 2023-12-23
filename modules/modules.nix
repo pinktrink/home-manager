@@ -61,7 +61,6 @@ let
     ./programs/bash.nix
     ./programs/bashmount.nix
     ./programs/bat.nix
-    ./programs/bacon.nix
     ./programs/beets.nix
     ./programs/borgmatic.nix
     ./programs/bottom.nix
@@ -70,10 +69,8 @@ let
     ./programs/browserpass.nix
     ./programs/btop.nix
     ./programs/carapace.nix
-    ./programs/cava.nix
     ./programs/chromium.nix
     ./programs/command-not-found/command-not-found.nix
-    ./programs/comodoro.nix
     ./programs/darcs.nix
     ./programs/dircolors.nix
     ./programs/direnv.nix
@@ -86,13 +83,11 @@ let
     ./programs/firefox.nix
     ./programs/fish.nix
     ./programs/foot.nix
-    ./programs/fuzzel.nix
     ./programs/fzf.nix
-    ./programs/gallery-dl.nix
+    ./programs/generic-programs.nix
     ./programs/getmail.nix
     ./programs/gh.nix
     ./programs/gh-dash.nix
-    ./programs/git-cliff.nix
     ./programs/git-credential-oauth.nix
     ./programs/git.nix
     ./programs/gitui.nix
@@ -101,17 +96,14 @@ let
     ./programs/gpg.nix
     ./programs/gradle.nix
     ./programs/granted.nix
-    ./programs/havoc.nix
     ./programs/helix.nix
     ./programs/hexchat.nix
     ./programs/himalaya.nix
     ./programs/home-manager.nix
     ./programs/hstr.nix
     ./programs/htop.nix
-    ./programs/hyfetch.nix
     ./programs/i3status-rust.nix
     ./programs/i3status.nix
-    ./programs/imv.nix
     ./programs/info.nix
     ./programs/ion.nix
     ./programs/irssi.nix
@@ -134,7 +126,6 @@ let
     ./programs/lf.nix
     ./programs/librewolf.nix
     ./programs/lieer.nix
-    ./programs/looking-glass-client.nix
     ./programs/lsd.nix
     ./programs/man.nix
     ./programs/mangohud.nix
@@ -142,7 +133,6 @@ let
     ./programs/mbsync.nix
     ./programs/mcfly.nix
     ./programs/mercurial.nix
-    ./programs/micro.nix
     ./programs/mpv.nix
     ./programs/mr.nix
     ./programs/msmtp.nix
@@ -150,7 +140,6 @@ let
     ./programs/mujmap.nix
     ./programs/navi.nix
     ./programs/ncmpcpp.nix
-    ./programs/ncspot.nix
     ./programs/ne.nix
     ./programs/neomutt.nix
     ./programs/neovim.nix
@@ -158,7 +147,6 @@ let
     ./programs/nheko.nix
     ./programs/nix-index.nix
     ./programs/nnn.nix
-    ./programs/noti.nix
     ./programs/notmuch.nix
     ./programs/nushell.nix
     ./programs/obs-studio.nix
@@ -174,10 +162,8 @@ let
     ./programs/pet.nix
     ./programs/pidgin.nix
     ./programs/pistol.nix
-    ./programs/piston-cli.nix
     ./programs/pls.nix
     ./programs/powerline-go.nix
-    ./programs/pqiv.nix
     ./programs/pubs.nix
     ./programs/pyenv.nix
     ./programs/pylint.nix
@@ -191,7 +177,6 @@ let
     ./programs/rofi.nix
     ./programs/rtorrent.nix
     ./programs/rtx.nix
-    ./programs/ruff.nix
     ./programs/sagemath.nix
     ./programs/sapling.nix
     ./programs/sbt.nix
@@ -201,7 +186,6 @@ let
     ./programs/sioyek.nix
     ./programs/skim.nix
     ./programs/sm64ex.nix
-    ./programs/sqls.nix
     ./programs/ssh.nix
     ./programs/starship.nix
     ./programs/swaylock.nix
@@ -218,12 +202,10 @@ let
     ./programs/tiny.nix
     ./programs/tmate.nix
     ./programs/tmux.nix
-    ./programs/topgrade.nix
     ./programs/translate-shell.nix
     ./programs/urxvt.nix
     ./programs/vdirsyncer.nix
     ./programs/vim.nix
-    ./programs/vim-vint.nix
     ./programs/vscode.nix
     ./programs/vscode/haskell.nix
     ./programs/pywal.nix
@@ -233,7 +215,6 @@ let
     ./programs/wezterm.nix
     ./programs/wlogout.nix
     ./programs/wofi.nix
-    ./programs/wpaperd.nix
     ./programs/xmobar.nix
     ./programs/xplr.nix
     ./programs/yazi.nix
